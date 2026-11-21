@@ -1,0 +1,7 @@
+run_id,check_name,column_name,value,failed
+2026-11-21T00:48:05,missing_rate,customer_id,0.02986138613861386,1
+2026-11-21T00:48:05,missing_rate,country,0.02,1
+2026-11-21T00:48:05,missing_rate,amount,0.016415841584158417,1
+2026-11-21T00:48:05,duplicate_rows,order_id,500.0,1
+2026-11-21T00:48:05,outliers_iqr,amount,470.0,1
+2026-11-21T00:48:05,psi_drift,amount,0.5909870685682478,1

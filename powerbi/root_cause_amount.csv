@@ -1,0 +1,12 @@
+column,dimension,value,bad_rows,lift
+amount,channel,store,829,4.97
+amount,product,B,182,1.1
+amount,country,DE,168,1.04
+amount,product,D,173,1.04
+amount,country,ES,167,1.01
+amount,country,IT,163,1.01
+amount,product,A,161,0.97
+amount,product,E,159,0.96
+amount,country,UK,157,0.96
+amount,country,FR,152,0.95
+amount,product,C,154,0.92
